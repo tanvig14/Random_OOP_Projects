@@ -19,13 +19,13 @@ class Area
         return t;
     }
 } 
+
 public class area_calc 
 {
       public static void main(String[] args) 
       {
           int choice,s,s1,s2,l,b,b1,b2,h,s3;
           Scanner sc = new Scanner(System.in);
-
           Area a = new Area();
         
           do
